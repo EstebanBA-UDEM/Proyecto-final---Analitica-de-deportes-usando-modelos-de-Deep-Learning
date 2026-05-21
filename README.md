@@ -1,0 +1,2 @@
+# Proyecto-final---Analitica-de-deportes-usando-modelos-de-Deep-Learning
+Proyecto del curso de Inteligencia Artificial 2, donde realizamos el entrenamiento de un modelo de YOLOv11s para la detección de jugadores y un balón dentro de una cancha grabada hacia arriba por un dron. En este repositorio se encuentra el código que se realizó para realizar el entrenamiento, y la detección del video llamando el modelo creado.
